@@ -1,1 +1,1 @@
-# Flipkart_Web_Scrapping
+In this project we have implemented Web Scrapping through some python libraries like BeautifukSoup, requests etc. We have gathered informations about smart phones under 50000/- and stored into a csv file. 
