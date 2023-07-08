@@ -1,1 +1,1 @@
-In this project we have implemented Web Scrapping through some python libraries like BeautifukSoup, requests etc. We have gathered informations about smart phones under 50000/- and stored into a csv file. 
+In this project, selenium is used to automate the google search of Flipkart and clicking to the link for entering into the website. Then we have implemented Web Scrapping through some python libraries like BeautifukSoup, requests etc. We have gathered informations about smart phones under 50000/- and stored into a csv file. 
